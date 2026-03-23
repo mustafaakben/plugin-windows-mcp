@@ -1,0 +1,8 @@
+{
+  "name": "plugin-windows-mcp",
+  "version": "1.0.0",
+  "description": "Windows automation skills and MCP integration for the CursorTouch Windows-MCP server. Provides best practices, tool guidance, and workflows for automating Windows desktops.",
+  "repository": "https://github.com/mustafaakben/plugin-windows-mcp",
+  "license": "MIT",
+  "keywords": ["windows", "automation", "mcp", "gui", "desktop", "windows-mcp"]
+}
