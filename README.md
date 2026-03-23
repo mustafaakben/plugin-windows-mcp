@@ -19,16 +19,23 @@ A Claude Code plugin that integrates the [Windows-MCP](https://github.com/Cursor
 
 ## Installation
 
-Install as a Claude Code plugin:
+**Step 1** — Add the marketplace:
 
 ```bash
-claude plugin add /path/to/plugin-windows-mcp
+claude plugin marketplace add mustafaakben/plugin-windows-mcp
 ```
 
-Or add via GitHub URL once published:
+**Step 2** — Install the plugin:
 
 ```bash
-claude plugin add github:mustafaakben/plugin-windows-mcp
+claude plugin install plugin-windows-mcp
+```
+
+Or from within Claude Code, use the slash commands:
+
+```
+/plugin marketplace add mustafaakben/plugin-windows-mcp
+/plugin install plugin-windows-mcp
 ```
 
 ## Available Tools (via MCP)
