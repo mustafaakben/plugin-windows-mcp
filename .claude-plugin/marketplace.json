@@ -1,6 +1,5 @@
 {
-  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
-  "name": "plugin-windows-mcp",
+"name": "plugin-windows-mcp",
   "owner": {
     "name": "Mustafa Akben",
     "url": "https://github.com/mustafaakben"
